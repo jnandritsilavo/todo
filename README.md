@@ -1,4 +1,3 @@
-```markdown
 # Task Management Application
 
 ## Introduction
@@ -54,5 +53,3 @@ No specific configuration is required unless you wish to customize the style or 
 
 ## Author
 Developed by JEAN NARIVELO.
-
-```
