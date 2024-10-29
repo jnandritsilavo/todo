@@ -1,0 +1,34 @@
+body {
+    background-color: #f0f2f5;
+}
+.task-card {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 15px;
+    padding: 10px;
+}
+.task-card .btn {
+    border-radius: 20px;
+}
+.task-card .task-title {
+    font-weight: bold;
+    color: #1C3350;
+}
+.task-card.completed {
+    background-color: #d4edda;
+}
+#add-task {
+    box-shadow: 0 4px 8px rgba(255, 97, 28, 0.3);
+    background-color: #FF611C;
+    color: #ffffff;
+}
+footer {
+    background-color: #1C3350;
+    color: #ffffff;
+    padding: 10px 0;
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
